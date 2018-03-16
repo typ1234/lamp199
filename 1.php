@@ -1,1 +1,1 @@
-<?php      echo "哈喽!";
+<?php      echo "哈喽!";      echo "尬聊!";      echo "mmp!";
